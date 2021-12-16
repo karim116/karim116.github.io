@@ -1,9 +1,9 @@
 AUTHOR = 'Sintegra'
 SITENAME = 'Blog - Sintegra'
 SITEURL = ''
-
-PATH = 'content'
 THEME = './attila'
+HOME_COVER = 'https://geekyshacklebolt.github.io/blog/images/my-blog-header-bg.jpg'
+
 TIMEZONE = 'Africa/Tunis'
 
 DEFAULT_LANG = 'en'
